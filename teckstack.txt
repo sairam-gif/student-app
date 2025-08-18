@@ -1,0 +1,6 @@
+Tech Stack (Easy Explanation)
+Frontend (UI) → React.js (for web), React Native (for mobile later)
+Backend (API) → Node.js + Express
+Database → PostgreSQL (main data), Redis (fast storage), S3/Drive (for files)
+Auth & Notifications → Firebase
+AI PDF → Your existing AI reader + OpenAI/Claude for smart search

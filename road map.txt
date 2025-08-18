@@ -1,0 +1,62 @@
+📋 Features by Phase
+Phase 1 – MVP (4 weeks)
+
+👉 Get the basics working.
+
+Add/Edit/Delete tasks
+
+Daily/weekly calendar view
+
+Mark tasks as done
+
+Simple profile (name, email, stats)
+
+Notifications for deadlines
+
+Basic dashboard
+
+Goal: Launch a simple working app for students.
+
+Phase 2 – Smart Features (4 weeks)
+
+👉 Make it more useful.
+
+Auto timetable generation (based on deadlines & time)
+
+Subtasks & recurring tasks
+
+Task templates
+
+Upload PDFs & interact with AI reader
+
+AI suggests tasks from PDFs
+
+Goal: Students can study smarter with AI + scheduling.
+
+Phase 3 – AI Power (4 weeks)
+
+👉 Add intelligence & polish.
+
+Smart task recommendations
+
+Personalized study schedules
+
+Study habit analysis (what works best for the student)
+
+Beautiful UI, animations, dark mode
+
+Mobile app ready for stores
+
+Goal: A polished, AI-enhanced student companion.
+
+📱 UI/UX (Easy Design Rules)
+
+Colors: Calm (blue/green), with red/yellow for priorities
+
+Quick Actions: “+ Task” button always visible
+
+Calendar: Easy drag-and-drop
+
+AI Assistant: Chat-style for asking PDF questions
+
+Dark Mode: Must-have for night study

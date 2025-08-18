@@ -1,0 +1,13 @@
+🎯 What We’re Building
+
+An app for students to:
+
+Add & manage daily tasks ✅
+
+Auto-generate a timetable 🗓️
+
+Set reminders & notifications 🔔
+
+Have a personal profile 👤
+
+Use your AI PDF reader to study smarter 🤖📚
